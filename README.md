@@ -1,7 +1,9 @@
 # Michel Abele
-@michel-abele
-
 [English version](https://github.com/michel-abele/michel-abele#welcome-to-my-github-profile)
+
+### GitHub Stats
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=michel-abele&theme=transparent&count_private=true&hide_border=true&line_height=20&show_icons=true&locale=de)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michel-abele&layout=compact&theme=transparent&count_private=true&hide_border=true&locale=de)</a>
 
 ## Willkommen auf meinem GitHub-Profil!
 
