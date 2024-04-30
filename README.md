@@ -1,12 +1,12 @@
 # Michel Abele
 :gb:|:us: [English version >>](https://github.com/michel-abele/michel-abele/blob/main/readme.en.md)
 
-### GitHub Stats
-![michel-abele's Stats](https://github-readme-stats.vercel.app/api?username=michel-abele&theme=transparent&show_icons=true&hide_border=true&count_private=true&locale=de)
-![michel-abele's Streak](https://github-readme-streak-stats.herokuapp.com/?user=michel-abele&theme=transparent&hide_border=true&locale=de)
+[![wakatime](https://wakatime.com/badge/user/b157e119-43e2-4e59-8e37-e856d015ff4b.svg)](https://wakatime.com/@b157e119-43e2-4e59-8e37-e856d015ff4b)
 
-![michel-abele's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michel-abele&theme=transparent&show_icons=true&hide_border=true&layout=compact&locale=de)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michel_abele&theme=transparent&hide_border=true&show_icons=true&layout=compact&locale=de)](https://github.com/anuraghazra/github-readme-stats)
+## Inhaltsverzeichnis
+
+- [Repositories](#repositories)
+- [GitHub Statistiken](#github-statistiken)
 
 ## Hallo und ein herzliches Willkommen auf meinem GitHub-Profil!
 
@@ -30,10 +30,18 @@ Freu dich auf einen spannenden Austausch und viel Spaß beim Entdecken meiner Gi
 
 ## Repositories
 
-[![wakatime](https://wakatime.com/badge/user/b157e119-43e2-4e59-8e37-e856d015ff4b.svg)](https://wakatime.com/@b157e119-43e2-4e59-8e37-e856d015ff4b)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=michel-abele&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Unbeaufsichtigte Installation von Linux-Systemen
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=debian-preseed-workbench&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub Statistiken
+
+![michel-abele's Stats](https://github-readme-stats.vercel.app/api?username=michel-abele&theme=transparent&show_icons=true&hide_border=true&count_private=true&locale=de)
+
+![michel-abele's Streak](https://github-readme-streak-stats.herokuapp.com/?user=michel-abele&theme=transparent&hide_border=true&locale=de)
+
+![michel-abele's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michel-abele&theme=transparent&show_icons=true&hide_border=true&layout=compact&locale=de)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michel_abele&theme=transparent&hide_border=true&show_icons=true&layout=compact&locale=de)](https://github.com/anuraghazra/github-readme-stats)
