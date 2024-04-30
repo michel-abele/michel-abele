@@ -30,11 +30,16 @@ Freu dich auf einen spannenden Austausch und viel Spaß beim Entdecken meiner Gi
 
 ## Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=michel-abele&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=michel-abele&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/michel-abele/michel-abele)
+
+### Notizen
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=vscode-settings&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/michel-abele/vscode-settings)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=apache-htaccess-snippets&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/michel-abele/apache-htaccess-snippets)
 
 ### Unbeaufsichtigte Installation von Linux-Systemen
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=debian-preseed-workbench&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=debian-preseed-workbench&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/michel-abele/debian-preseed-workbenc)
 
 ## GitHub Statistiken
 
