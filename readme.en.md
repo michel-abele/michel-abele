@@ -2,18 +2,21 @@
 [<< Profile](https://github.com/michel-abele)
 
 ### GitHub Stats
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=michel-abele&theme=transparent&count_private=true&hide_border=true&line_height=20&show_icons=true)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michel-abele&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+![michel-abele's Stats](https://github-readme-stats.vercel.app/api?username=michel-abele&theme=transparent&show_icons=true&hide_border=true&count_private=true&locale=en)
+![michel-abele's Streak](https://github-readme-streak-stats.herokuapp.com/?user=michel-abele&theme=transparent&hide_border=true&locale=en)
 
-## :octocat: Hello and welcome to my GitHub profile!
+![michel-abele's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michel-abele&theme=transparent&show_icons=true&hide_border=true&layout=compact&locale=en)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michel_abele&theme=transparent&hide_border=true&show_icons=true&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+
+## Hello and welcome to my GitHub profile!
 
 All kinds of exciting repositories await you here - from small notes and scripts to more extensive projects and my personal websites. If you're looking for open source code, you've come to the right place: anything under a FLOSS license or any other free license is welcome to be used for your own projects. You can copy the code from my websites as you wish, but please note that the content remains protected by copyright.
 
-### :man: About me:
+### About me:
 
 I am a real IT and logistics all-rounder! My vocational training as an IT specialist for system integration and as a merchant for forwarding and logistics services has given me a broad range of skills. I have been immersed in both worlds for over 20 years, tirelessly gathering experience. My heart beats for tinkering with systems and processes - always on the hunt for the best solution.
 
-### :warning: Small heads-ups:
+### Small heads-ups:
 
 - Please understand that some repositories are still in their infancy or are not up to date. So you may come across a few bugs here and there. I am constantly and happily working on further development, but please don't always expect completeness.
 
@@ -25,5 +28,12 @@ _"Art is never finished, only abandoned."_ – Leonardo da Vinci
 
 Look forward to an exciting exchange and have fun discovering my GitHub world!
 
-## :floppy_disk: Repositories
+## Repositories
 
+[![wakatime](https://wakatime.com/badge/user/b157e119-43e2-4e59-8e37-e856d015ff4b.svg)](https://wakatime.com/@b157e119-43e2-4e59-8e37-e856d015ff4b)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=michel-abele&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/anuraghazra/github-readme-stats)
+
+### Unattended installation of Linux systems
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=debian-preseed-workbench&theme=transparent&hide_border=true&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
