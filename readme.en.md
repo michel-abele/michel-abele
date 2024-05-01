@@ -30,11 +30,16 @@ Look forward to an exciting exchange and have fun discovering my GitHub world!
 
 ## Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=michel-abele&theme=transparent&hide_border=true&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=michel-abele&theme=transparent&hide_border=true&show_icons=true&locale=en)](https://github.com/michel-abele/michel-abele)
+
+### Notes
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=vscode-settings&theme=transparent&hide_border=true&show_icons=true&locale=en)](https://github.com/michel-abele/vscode-settings)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=apache-htaccess-snippets&theme=transparent&hide_border=true&show_icons=true&locale=en)](https://github.com/michel-abele/apache-htaccess-snippets)
 
 ### Unattended installation of Linux systems
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=debian-preseed-workbench&theme=transparent&hide_border=true&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=debian-preseed-workbench&theme=transparent&hide_border=true&show_icons=true&locale=en)](https://github.com/michel-abele/debian-preseed-workbench)
 
 ### GitHub statistics
 
