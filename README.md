@@ -3,10 +3,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/b157e119-43e2-4e59-8e37-e856d015ff4b.svg)](https://wakatime.com/@b157e119-43e2-4e59-8e37-e856d015ff4b)
 
-![wakatime](https://wakatime.com/badge/user/b157e119-43e2-4e59-8e37-e856d015ff4b.svg)
-
-<a href="https://wakatime.com/@b157e119-43e2-4e59-8e37-e856d015ff4b"><img src="https://wakatime.com/badge/user/b157e119-43e2-4e59-8e37-e856d015ff4b.svg" alt="Total time coded since Apr 30 2024" /></a>
-
 ## Inhaltsverzeichnis
 
 - [Repositories](#repositories)
@@ -44,6 +40,10 @@ Freu dich auf einen spannenden Austausch und viel Spaß beim Entdecken meiner Gi
 ### Unbeaufsichtigte Installation von Linux-Systemen
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=debian-preseed-workbench&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/michel-abele/debian-preseed-workbench)
+
+### Webseiten
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=www-abele-onl&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/michel-abele/www-abele-onl)
 
 ## GitHub Statistiken
 
