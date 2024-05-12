@@ -44,6 +44,7 @@ Freu dich auf einen spannenden Austausch und viel Spaß beim Entdecken meiner Gi
 ### Webseiten
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=www-abele-onl&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/michel-abele/www-abele-onl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-abele&repo=linux-abele-onl&theme=transparent&hide_border=true&show_icons=true&locale=de)](https://github.com/michel-abele/linux-abele-onl)
 
 ## GitHub Statistiken
 
